@@ -1,6 +1,6 @@
 package academy.devdojo.javaoneforall.introduction;
 
-public class Class03PrimitiveTypesExercise {
+public class Class003PrimitiveTypesExercise {
     public static void main(String[] args) {
         String name = "Filipe";
         String address = "Rua M##";
