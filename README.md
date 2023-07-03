@@ -1,2 +1,2 @@
 # java-one-for-all-DevDojo
- A Java course from the channel DevDojo! [Tottaly in English]
+ A Java course from the channel DevDojo! [Totally in English]
